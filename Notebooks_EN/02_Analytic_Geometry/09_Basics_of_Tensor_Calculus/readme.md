@@ -1,2 +1,2 @@
 # 09_Basics_of_Tensor_Calculus
-i know this topic doeant have exercies so i wrote 3 questions( getting help by chatgpt) and the answers. and tried a little bit of coding the questions to get answers
+"I understand that this topic does not typically include exercises, so I have formulated three questions with their corresponding answers. To further enhance my understanding, I sought assistance from ChatGPT and incorporated some coding to calculate the answers. This approach allowed me to experiment with the concepts and gain a deeper insight into the material."
